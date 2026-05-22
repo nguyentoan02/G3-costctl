@@ -39,7 +39,7 @@ Supported commands:
 ## Quick start
 
 ```bash
-git clone https://github.com/TechX-Corp/xbrain-costctl-starter g3-costctl
+git clone https://github.com/nguyentoan02/G3-costctl.git g3-costctl
 cd g3-costctl
 python -m pip install -r requirements-dev.txt
 python -m pytest -q
